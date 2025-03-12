@@ -1,12 +1,12 @@
 ![Profile views](https://komarev.com/ghpvc/?username=aj7tt&color=green) 
 <p align="center">
-  <a href="https://github.com/nhiph4303">
-    <img width="15%" alt="Hello, I'm Nini" src="./assets/nini.png" />
+  <a href="https://github.com/ngkhuy">
+    <img width="15%" alt="Hello, I'm Huy Nguyen" src="./assets/nini.png" />
   </a>
 </p>
 
-### 🌷 I'm a Software Engineering student who loves web development, testing, game development, and problem-solving.
-
+### 🌷 I'm a Computer Science student who interested in Natural Language Processing, Machine Learning, Deep learning, and problem-solving.
+<!--
 - 🔭 Currently building and learning **web applications** with **React, Java Spring, and ASP.NET**.  
 - 🎮 Passionate about **game development**, currently exploring game engines and game mechanics.  
 - 🌱 Exploring **AI** as my next learning goal.  
@@ -24,15 +24,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
+-->
 
 ---
 ### 🔭 Projects  
 
 | 📝 Project | 📄 Description |
 |-------------|-----------------------------------------------------------------------|
-| **[Ecommerce Website](https://github.com/nhiph4303/cosmetic-ecommerce-website)** | 🛍️ Modern e-commerce site for cosmetics, built with **ASP.NET, JavaScript, CSS, HTML**. |
-| **[Desktop Application](https://github.com/nhiph4303/Restaurant-management-system)** | 🍽️ Restaurant Management System using **Java & Swing**. |
+|  |
+|  |
 
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: stretch; gap: 10px;">
@@ -44,7 +44,7 @@
 ---
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/nhiphan4303/" target="blank">
+<a href="https://www.linkedin.com/in/ngkhuy159/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
