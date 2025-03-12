@@ -1,7 +1,7 @@
-![Profile views](https://komarev.com/ghpvc/?username=aj7tt&color=green) 
+
 <p align="center">
   <a href="https://github.com/ngkhuy">
-    <img width="15%" alt="Hello, I'm Huy Nguyen" src="./assets/nini.png" />
+    <img width="15%" alt="Hello, I'm Huy Nguyen" src="#" />
   </a>
 </p>
 
