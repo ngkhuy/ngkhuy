@@ -4,7 +4,7 @@
 ### 🌱 I'm a *Computer Science* student with a passion for *Image Processing*, *Natural Language Processing (NLP)*, *Machine Learning*, *Deep Learning* and *Data Science*.
 
 - 🤖 Building and learning *Image Processing* and *Natural Language Processing (NLP)* projects.
-- 🔭 Currently learning *Machine Learning*, *Deep Learning*, exploring real-time *AI* models, and experimenting with *Data Science*.
+- 🔭 Currently learning *Machine Learning*, *Deep Learning*, exploring real-time *AI* models.
 - 🗣️ Passionate about *Natural Language Processing (NLP)* and solving text-based problems.
 - 💬 Let’s connect and chat about tech, baminton 🏸, games, or cats!🐱
 
