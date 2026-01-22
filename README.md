@@ -17,9 +17,6 @@ Here are some of my notable projects:
 1. [NLP_Fakenews_Classification_CrawlDataset](https://github.com/ngkhuy/NLP_Fakenews_Classification_CrawlDataset) - This is my project for mid-term of NLP course requirement in my University.
 
 ---
-<img height=185 style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhuy&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=15&hide_border=true" alt="ngkhuy" />
-
----
 ### 📫 Let's Connect
 <a href="https://www.linkedin.com/in/ngkhuy159/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
